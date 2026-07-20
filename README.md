@@ -7,3 +7,6 @@ the href="" attribute with source link is used to link an external website to ou
 
 we can use the target="_blank" attribute to open the link in a new tab.
 
+The <img> in html is used to add an external or abosulte images to our webpages.
+the src="image.png" attribute is helps to link the image
+
